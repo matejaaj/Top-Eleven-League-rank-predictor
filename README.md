@@ -2,7 +2,8 @@
 
 ## Academic Context
 
-This project was developed as part of the coursework for "Numerical Algorithms and Numerical Software," a subject at the "Faculty of Technical Sciences".
+This project was developed as part of the coursework for "Numerical Algorithms and Numerical Software," a subject at the "Faculty of Technical Sciences." The task was originally part of the Nordeus Data Science Challenge that I took part in after JobFair 2023.
+
 
 ## Project Overview
 
